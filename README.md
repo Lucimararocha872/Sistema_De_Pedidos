@@ -1,0 +1,3 @@
+# Sistema De Pedidos :bookmark_tabs:
+
+Criando um sistema de pedidos em **Java**, utilizando os composição de objetos, tipos enum e a classe StringBuilder...
